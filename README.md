@@ -19,5 +19,5 @@ ZMK/QMK compatible keyboard developed by [Luerl](https://github.com/Luerl21)
 # CASE
 ## Sandwich Laser Cut - not tested
 ![dxf](https://github.com/Luerl21/synth_wave/case/laser_cut.dxf)
-[PCB_TOP](https://raw.githubusercontent.com/Luerl21/synth_wave/main/images/laser_cut.svg)
+[laser cut](https://raw.githubusercontent.com/Luerl21/synth_wave/main/images/laser_cut.svg)
 ## 3D case - WIP
